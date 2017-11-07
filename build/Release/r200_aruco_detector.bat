@@ -1,0 +1,1 @@
+r200_viewer.exe -c="calib.txt" -w=7 -h=5 -l=0.03 -s=0.006 -d=10
